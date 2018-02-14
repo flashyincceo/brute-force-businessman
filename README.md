@@ -6,7 +6,7 @@ You are looking to buy some used phones to fix and resell. Each phone has a cost
 ASSUME you will always sell the phone for the retail price, and that if you can't repair the phone, it is worthless.
 ASSUME the retail of every phone is greater than the cost.
 
-Given a certain amount of money, this program chooses which phones to buy to maximize profit.
+Given a list of Phones and a certain amount of money, this program returns a list of phones to buy to maximize profit without going over budget.
 
 ### How to use ###
 1. Download Dr. Racket (https://racket-lang.org/)
